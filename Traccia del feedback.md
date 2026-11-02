@@ -9,6 +9,8 @@ Non deve essere perfetta: deve essere tua. Se ti sei bloccato a metà, mandamela
 
 Puoi chiedere a Claude di prepararla: «prepara la mia email di feedback con la Traccia del feedback». Compila lui le parti che conosce da quello che avete fatto insieme; le altre le scrivi tu. La copi e la mandi tu dalla tua posta.
 
+Nell'email niente nomi di clienti o dati riservati: scrivi il ruolo («un cliente», «la socia»).
+
 ---
 
 ```text

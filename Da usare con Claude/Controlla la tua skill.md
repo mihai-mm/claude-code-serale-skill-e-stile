@@ -1,6 +1,6 @@
 # Controlla la tua skill
 
-Hai appena creato una skill e vuoi sapere se è fatta bene. Questo file lo dai al tuo Claude: legge la tua skill, risponde a otto domande e ti propone cosa migliorare, una cosa alla volta.
+Hai una skill e vuoi sapere se è fatta bene. Questo file lo dai al tuo Claude: legge la tua skill, risponde a otto domande e ti propone cosa migliorare, una cosa alla volta.
 
 Non devi sapere niente di tecnico, e non devi aprire tu il file della skill.
 

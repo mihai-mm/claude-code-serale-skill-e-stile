@@ -40,7 +40,7 @@ Un'avvertenza: non chiedere di «smistare l'inbox» finché non hai finito. Ques
 
 ## Se qualcosa non va
 
-- **In aula**: scrivilo in chat o alza la mano. Se il problema è di molti, lo risolviamo davanti a tutti. Se è solo tuo, ti aiuto a parte: non serve fermare tutti.
+- **Durante la lezione**: scrivilo in chat o alza la mano. Se il problema è di molti, lo risolviamo davanti a tutti. Se è solo tuo, ti aiuto a parte: non serve fermare tutti.
 - **A casa**: chiedi a Claude e mostragli uno screenshot.
 - Le richieste che puoi vedere: l'app ti chiederà il permesso di modificare il `CLAUDE.md` all'ultimo passaggio, e il Mac può chiederti se «Claude» può accedere a Documenti, Scrivania o Download. In entrambi i casi va consentito.
 
