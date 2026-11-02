@@ -1,6 +1,6 @@
 # Corso Claude Code serale · L'esercitazione del 2 novembre
 
-Qui trovi il materiale per l'esercitazione sulle skill: crearne una, controllarne una che hai già, oppure costruire il tuo `STYLE.md`. Lo dai al tuo Claude e lui ti guida, un passo alla volta.
+Qui trovi il materiale per l'esercitazione, che ha due esercizi: una skill (ne crei una nuova o controlli quella che hai già) e il tuo `STYLE.md`, la scheda del tuo modo di scrivere. Lo dai al tuo Claude e lui ti guida, un passo alla volta.
 
 ## Come lo scarichi (due minuti)
 
@@ -11,13 +11,13 @@ Qui trovi il materiale per l'esercitazione sulle skill: crearne una, controllarn
 
 > leggi ESERCITAZIONE e guidami
 
-Claude ti chiede quale strada vuoi fare e ti accompagna.
+Claude ti chiede da quale strada parti per la skill e ti accompagna in tutti e due gli esercizi.
 
 Su Windows può capitare che dentro la cartella estratta ce ne sia un'altra con lo stesso nome: va bene così, Claude la trova lo stesso.
 
 ## Cosa c'è dentro
 
-- **`ESERCITAZIONE.md`**: il punto di partenza, con le tre strade e la checklist per chi ha già una skill.
+- **`ESERCITAZIONE.md`**: il punto di partenza, con i due esercizi e la checklist per chi ha già una skill.
 - **`Da usare con Claude/Controlla la tua skill.md`**: otto domande per capire se una skill è fatta bene, e le correzioni.
 - **`Da usare con Claude/Crea il tuo stile di scrittura.md`**: la guida per il tuo `STYLE.md`.
 - **`Traccia del feedback.md`**: cosa scrivermi per email quando hai finito, entro domenica 8 novembre.
